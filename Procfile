@@ -1,1 +1,1 @@
-worker: npm i -g pm2 && pm2 start kalgans.js && pm2 save && pm2 logs
+Worker: node. --db 'mongodb+srv://Mongodb-bot:11GtcmJXsNlpBGQy@cluster0.ihovsjz.mongodb.net/?retryWrites=true&w=majority'
