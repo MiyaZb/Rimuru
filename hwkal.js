@@ -29,19 +29,19 @@ global.footer = 'CIEL' //ubah jadi nama mu, note tanda ' gausah di hapus!
 // Other
 global.owner = ['6281364440831']
 global.premium = ['6281364440831']
-global.packname = 'HW MODS WA'
-global.ownerr = ['HW MODS WA']
-global.author = 'HW MODS WA'
+global.packname = 'CIEL'
+global.ownerr = ['CIEL']
+global.author = 'CIEL'
 global.sessionName = './sessionye/haikal'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     nsfw: '*Fitur NSFW tidak diaktifkan, chat admin grup supaya diaktifkan*_',
-    wait: '*Loading... Sabar Wibu*_',
+    wait: '*LU MESUM, NTAR LODING*_',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
-    verif: 'Hai Kakak 👋 Silahkan Verifikasi Terlebih Dahulu Agar Bisa Menggunakan Bot Hw Mods',
+    endLimit: 'YAHAHA LIMIT, BELI PREM ATAU NUNGGU BESOK?',
+    verif: 'Hai Kakak 👋 Silahkan Verifikasi Dulu ngab baru pakai bot CIEL',
 }
 //=================================================//
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
