@@ -13,13 +13,13 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/c/HwModsWa857'
+global.youtube = 'https://chat.whatsapp.com/DifYKOg52WOFqHmfHd9z6d'
 global.ig = 'https://www.instagram.com/hikal_857/?hl=id'
-global.mygc = 'wa.me/6285714170944'
+global.mygc = 'wa.me/6281364440831'
 global.myweb = 'https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'
-global.linkgrupss = "https://chat.whatsapp.com/Jh7zaCSnPCBC4gdYOEVm0K"
+global.linkgrupss = "https://chat.whatsapp.com/DifYKOg52WOFqHmfHd9z6d"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
-global.email = 'denyp857@gmail.com'
+global.email = 'miyachinen8148'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'CIEL' //ubah jadi nama mu, note tanda ' gausah di hapus!
@@ -41,7 +41,7 @@ global.mess = {
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     endLimit: 'YAHAHA LIMIT, BELI PREM ATAU NUNGGU BESOK?',
-    verif: 'Hai Kakak 👋 Silahkan Verifikasi Dulu ngab baru pakai bot CIEL',
+    verif: 'Hai bang 👋  Verifikasi Dulu baru pakai bot CIEL',
 }
 //=================================================//
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -59,7 +59,7 @@ global.f6 = 'application/vnd.android.package-archive'
 //=================================================//
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 10
 }
    global.rpg = {
    darahawal: 100,
