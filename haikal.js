@@ -644,8 +644,8 @@ var order = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 						"priceAmount1000": "10000000",
 						"message": `© ciel${ngazap(prefix)}`,
 "jpegThumbnail":fs.readFileSync('./baseikal/image/pict.jpg'),
-"orderTitle": `© HW MODS WA${ngazap(prefix)}`,
-						"sellerJid": "6285714170944@s.whatsapp.net",
+"orderTitle": `© CIEL${ngazap(prefix)}`,
+						"sellerJid": "6281364440831@s.whatsapp.net",
 						"token": "AR4TdfqMmZL1Hxo+dInFjtFNQAEBVE1RlecZAg8+2znapg==",
 						"totalAmount1000": "35000000",
 						"totalCurrencyCode": "IDR",
@@ -996,7 +996,7 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "firstImageId": 1,
 "salePriceAmount1000": "10000000",
 "retailerId": `© CIEL WA WE ARE NOT MASTOD`,
-"url": "wa.me/6285714170944"
+"url": "wa.me/6281364440831"
 },
 "businessOwnerJid": "6281364440831@s.whatsapp.net",
 }
@@ -1044,7 +1044,7 @@ if (!isRegistered) return replyReg(mess.verif)
 haikal.relayMessage(m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g,'')+"@s.whatsapp.net", { requestPaymentMessage: { Message: { extendedTextMessage: { text: teks, currencyCodeIso4217: 'IDR', requestFrom: '0@s.whatsapp.net', expiryTimestamp: 8000, amount: 1, contextInfo:{"externalAdReply": {"title": `SC HW MODS WA`,"body": `Selamat ${salam} kak ${pushname}`,
 mimetype: 'audio/mpeg', caption: `${buttonkal}`,
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/CIEL7`,
+sourceUrl: `https://chat.whatsapp.com/DifYKOg52WOFqHmfHd9z6d`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
@@ -1320,7 +1320,7 @@ let buttonsntnsfww = [
 await haikal.sendButtonText(m.chat, buttonsntnsfww, `Klick Button Di Bawah Ini \n\nOn Untuk Mengaktifkan\nOff untuk Menonaktifkan
 \n\n*WELCOME\n\n
 bugcrot
-bugahay `, `HW MODS WA${ngazap(prefix)}`, m)
+bugahay `, `CIEL${ngazap(prefix)}`, m)
 }
 }
 break
@@ -2483,7 +2483,7 @@ case 'bisakah':
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 if (!q) return reply(`Penggunaan ${command} text\n\nContoh : ${command} saya wibu`)
-const bisa = ['Bisa','Gak Bisa','Gak Bisa Ajg Aaokawpk','TENTU PASTI KAMU BISA!!!!']
+const bisa = ['Bisa','Gak Bisa','Gak mungkin kontol wkwk','TENTU PASTI KAMU BISA!!!!']
 const ga = bisa[Math.floor(Math.random() * bisa.length)]
 haikal.sendMessage(from, { text: `Pertanyaan : ${q}\nJawaban : ${ga}` }, { quoted: hw })
 break
@@ -2492,7 +2492,7 @@ case 'bagaimanakah':
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 if (!q) return reply(`Penggunaan ${command} text\n\nContoh : ${command} saya wibu`)
-const gimana = ['Gak Gimana2', 'Sulit Itu Bro', 'Maaf Bot Tidak Bisa Menjawab', 'Coba Deh Cari Di Gugel','astaghfirallah Beneran???','Pusing ah','Owhh Begitu:(','Yang Sabar Ya Bos:(','Gimana yeee']
+const gimana = ['Gak Gimana2', 'Sulit Itu Bro', 'Maaf Ciel Tidak Bisa Menjawab', 'Coba Deh Cari di gugel','astaghfirallah Beneran???','Pusing ah','Owhh Begitu:(','Yang Sabar Ya Bos:(','Gimana yeee']
 const ya = gimana[Math.floor(Math.random() * gimana.length)]
 haikal.sendMessage(from, { text: `Pertanyaan : ${q}\nJawaban : ${ya}` }, { quoted: hw })
 break
@@ -2616,7 +2616,7 @@ break
 case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
-haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c2fda8b471c869a46b8c5.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n⭔ 13k Per Group via E-Walet 1 Month\n⭔ 18k via pulsa 1 Month\n\n Premium Price Bot\n⭔ 8k per User 1 bulan\n\nPayment can be via Paypal/link aja/pulsa\n\nFor more details, you can chat with the owner\nhttps://wa.me/6285714170944 (Owner)\n\nDonate For Me : \n\n⭔ Paypal : https://trakteer.id/hw-mods-wa-haikal\n⭔ Saweria : https://saweria.co/hwmodswa` }, { quoted: hw })
+haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c2f46b8c5.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n⭔ 13k Per Group via E-Walet 1 Month\n⭔ 18k via pulsa 1 Month\n\n Premium Price Bot\n⭔ 8k per User 1 bulan\n\nPayment can be via Paypal/link aja/pulsa\n\nFor more details, you can chat with the owner\nhttps://wa.me/6285714170944 (Owner)\n\nDonate For Me : \n\n⭔ Paypal : https://trakteer.id/hw-mods-wa-haikal\n⭔ Saweria : https://saweria.co/hwmodswa` }, { quoted: hw })
 }
 break
 //=================================================//
@@ -2815,7 +2815,7 @@ if (!m.isGroup) throw groupon(from)
 let member = participants.map(u => u.id)
 let me = m.sender
 let jodoh = member[Math.floor(Math.random() * member.length)]
-let jawab = `👫Jodoh mu adalah
+let jawab = `👫Jodoh mu mungkin
 @${me.split('@')[0]} ❤️ @${jodoh.split('@')[0]}`
 let ments = [me, jodoh]
 let buttons = [
@@ -2857,7 +2857,7 @@ case 'join': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
-if (!text) throw 'Masukkan Link Group!'
+if (!text) throw 'LINK nya mana dek'
 if (!isUrl(args[0]) && !args[0].includes('whatsapp.com')) throw 'Link Invalid!'
 let result = args[0].split('https://chat.whatsapp.com/')[1]
 await haikal.groupAcceptInvite(result).then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
@@ -3389,7 +3389,7 @@ if (!isAdmins) throw sticAdmin(from)
 if (args[0] === "on") {
 if (db.data.chats[m.chat].mute) return reply(`Sudah Aktif Sebelumnya`)
 db.data.chats[m.chat].mute = true
-reply(`${haikal.user.name} telah di mute di group ini !`)
+reply(`${haikal.user.name} udh ngab,kasian juga tuh member`)
 } else if (args[0] === "off") {
 if (!db.data.chats[m.chat].mute) return reply(`Sudah Tidak Aktif Sebelumnya`)
 db.data.chats[m.chat].mute = false
@@ -3429,12 +3429,12 @@ await haikal.sendMessage(m.chat, { disappearingMessagesInChat: false }).then((re
 }
 break
 //=================================================//
-case 'delete': case 'del': {
+case 'delete': case 'del': case 'd' {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 if (!m.quoted) throw false
 let { chat, fromMe, id, isBaileys } = m.quoted
-if (!isBaileys) throw 'Pesan tersebut bukan dikirim oleh bot!'
+if (!isBaileys) throw 'Pesan nya bukan punya gw ajg'
 haikal.sendMessage(m.chat, { delete: { remoteJid: m.chat, fromMe: true, id: m.quoted.id, participant: m.quoted.sender } })
 }
 break
@@ -3859,7 +3859,7 @@ haikal.sendMessage(m.chat, { video: { url: media.dl_link }, mimetype: 'video/mp4
 }
 break
 //=================================================//
-case 'pinterest': {
+case 'pinterest': case 'pin' {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
 let { pinterest } = require('./baseikal/lib/scraper')
@@ -4448,12 +4448,12 @@ await sleep(1500)
 let btn = [{
 urlButton: {
 displayText: 'Youtube',
-url: 'https://youtube.com/c/HwModsWa857'
+url: 'https://chat.whatsapp.com/DifYKOg52WOFqHmfHd9z6d'
 }
 }, {
 callButton: {
 displayText: 'Number Phone Owner',
-phoneNumber: '+6285714170944'
+phoneNumber: '+6281364440831'
 }
 }, {
 quickReplyButton: {
@@ -4467,7 +4467,7 @@ id: 'owner'
 }
 }, {
 quickReplyButton: {
-displayText: 'Telegram',
+displayText: 'Grup WA',
 id: 'sc'
 }
 }]
@@ -4549,7 +4549,7 @@ await sleep(1500)
 let btn = [{
 urlButton: {
 displayText: 'Youtube',
-url: 'https://youtube.com/Ciel7'
+url: 'https://chat.whatsapp.com/DifYKOg52WOFqHmfHd9z6d'
 }
 }, {
 callButton: {
@@ -5188,7 +5188,7 @@ await haikal.sendButtonText(m.chat, buttonsntnsfww, `Klick Button Di Bawah Ini \
 
 ⚠️ DANGERR ⚠️
 
- `, `HW MODS WA`, m)
+ `, `CIEL`, m)
 }
 }
 break
@@ -5564,7 +5564,7 @@ orderMessage: {
 itemCount: 99999999,
 status: 1,
 surface: 1,
-message: 'HW MODS WA',
+message: 'CiEL',
 orderTitle: '999999999', 
 sellerJid: `0@s.whatsapp.net` 
 }
@@ -5653,7 +5653,7 @@ jpegThumbnail:log0,
 caption: `
 ◎ Lib : Multi-Device
 ◎ Terbit : *01-09-1999*
-◎ Owner : 085714170944
+◎ Owner : 0831-6444-0831
 
 [ 🇲🇨 Ini adalah Bot Pribadi Tekan Link Di Bawah Untuk Bergabung ]`,
 footer: haikal.user.name,
@@ -5684,7 +5684,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Lib : Multi-Device
 ◎ Terbit : *01-09-1999*
 
-[ 🇲🇨 Ini adalah Bot Pribadi  Dari Indonesia 👋 ]
+[ 🇲🇨 Ini adalah Bot Pribadi  Dari CIEL 👋 ]
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 *MENU*
 ┏━━⊱ 
@@ -5713,10 +5713,10 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 *NOTE*
 🌷
-contact me Wa.me/6285714170944
+contact me Wa.me/6281364440831
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©Haikal`,
+©CIEL BOT`,
 footer: haikal.user.name,
 buttons: buttons,
 headerType: 4
@@ -5734,7 +5734,7 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "productImage": messa.imageMessage,
 "productId": "449756950375071",
 "title": ` © Hay Kak ${pushname} 👋 Selamat ${salam} Apa Yang Bisa Saya Bantu 🙏`,
-"description": ` - © HW MODS WA -
+"description": ` - © CIEL -
 
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
@@ -5747,10 +5747,10 @@ SILAHKAN KETIK MENU UNTUK MENGGUNAKAN BOT LEBIB LANJUT ✌️`,
 "productImageCount": 1,
 "firstImageId": 1,
 "salePriceAmount1000": "10000000",
-"retailerId": `© HW MODS WA WE ARE NOT MASTOD`,
-"url": "Wa.me/6285714170944"
+"retailerId": `© CIEL WE ARE NOT MASTOD`,
+"url": "Wa.me/6281364440831"
 },
-"businessOwnerJid": "6285714170944@s.whatsapp.net",
+"businessOwnerJid": "6281364440831@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: hw })
 haikal.relayMessage(m.chat, catalog.message, { messageId: catalog.key.id })
