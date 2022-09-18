@@ -265,7 +265,7 @@ content: Buffer.from(status, 'utf-8')
 })
 return status}
 //=================================================//
-haikal.public = false
+haikal.public = true
 //=================================================//
 haikal.serializeM = (m) => smsg(haikal, m, store)
 haikal.ev.on('connection.update', async (update) => {
